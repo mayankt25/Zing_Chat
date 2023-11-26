@@ -1,3 +1,3 @@
-# Zing Chat
+# Zing Chat - Chat With Your Friends
 
-A Modern, Fast Chat Flutter Application.
+Zing Chat is a simple Flutter-based chat application that allows users to communicate in real-time.
