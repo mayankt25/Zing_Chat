@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590112572949",
+    "project_id": "zing-chat-b956a",
+    "storage_bucket": "zing-chat-b956a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590112572949:android:c0551e9f6f9bef7d0f701c",
+        "android_client_info": {
+          "package_name": "com.mayanktripathi.zing_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRk6VBQF6Fl37zbHeqDi_HM0FtEvtmkRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

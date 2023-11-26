@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDCMYL5qZfkGIXsYei-SgB79LeYOynktRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>590112572949</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mayanktripathi.zingChat</string>
+	<key>PROJECT_ID</key>
+	<string>zing-chat-b956a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zing-chat-b956a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:590112572949:ios:88c0bbce6a573e280f701c</string>
+</dict>
+</plist>
