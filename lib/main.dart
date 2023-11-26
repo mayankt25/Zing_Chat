@@ -27,7 +27,7 @@ class ZingChat extends StatelessWidget {
         ),
         appBarTheme: const AppBarTheme(
           iconTheme: IconThemeData(
-            color: Colors.white, // Change the color here
+            color: Colors.white,
           ),
         ),
       ),
